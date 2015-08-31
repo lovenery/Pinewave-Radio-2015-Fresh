@@ -1,0 +1,184 @@
+body {
+	
+	background-image: url('../image/background.png');
+	background-repeat:no-repeat;
+	background-color: #231111;
+	
+	width: 1366px;
+	height: 768px;
+}
+
+#content{
+	position: relative;
+}
+#jp_container_1{
+	position:absolute;
+	top:64px;
+	left:425px;
+}
+#jp_container_2{
+	position:absolute;
+	top:64px;
+	left:663px;
+}
+#live-play-button{
+	position:absolute;
+	top:40px;
+	left:850px;
+	cursor: pointer;
+}
+#pinewave{
+	width:185px;
+	height:35px;
+	position:absolute;
+	top:25px;
+	left:45px;
+	cursor: pointer;
+}
+
+#facebook{
+	width:160px;
+	height:35px;
+	position:absolute;
+	top:25px;
+	left:240px;
+	cursor: pointer;
+}
+
+#ncufresh{
+	width:154px;
+	height:35px;
+	position:absolute;
+	top:25px;
+	left:410px;
+	cursor: pointer;
+}
+
+#counsel{
+	width:119px;
+	height:35px;
+	position:absolute;
+	top:25px;
+	left:580px;
+	cursor: pointer;
+}
+
+#ncu{
+	width:125px;
+	height:35px;
+	position:absolute;
+	top:25px;
+	left:715px;
+	cursor: pointer;
+}
+#joinus{
+	position:absolute;
+	top:81px;
+	left:260px;
+}
+#googleform{
+	width:197px;
+	height:40px;
+	position:absolute;
+	top:78px;
+	left:46px;
+
+	opacity: 0;
+}
+
+#googleform:hover{
+	opacity: 0.4;
+}
+
+#p1{
+	width:50px;
+	height:50px;
+	position:absolute;
+	top:170px;
+	left:120px;
+	cursor: pointer;
+}
+#p2{
+	width:50px;
+	height:50px;
+	position:absolute;
+	top:170px;
+	left:386px;
+	cursor: pointer;
+}
+#p3{
+	width:50px;
+	height:50px;
+	position:absolute;
+	top:170px;
+	left:648px;
+	cursor: pointer;
+}
+#p4{
+	width:50px;
+	height:50px;
+	position:absolute;
+	top:170px;
+	left:915px;
+	cursor: pointer;
+}
+#p5{
+	width:50px;
+	height:50px;
+	position:absolute;
+	top:170px;
+	left:1178px;
+	cursor: pointer;
+}
+
+#p1:hover,#p2:hover,#p3:hover,#p4:hover,#p5:hover{
+	opacity: 0.75;
+	transform: scale(1.25);
+	transition: all 0.5s linear;
+}
+
+#page1{
+	width:240px;
+	height:590px;
+	position:absolute;
+	top:145px;
+	left:36px;
+	background-color:#231111;
+	opacity: 0;
+}
+#page2{
+	width:240px;
+	height:590px;
+	position:absolute;
+	top:145px;
+	left:298px;
+	background-color:#231111;
+	opacity: 0;
+}
+#page3{
+	width:240px;
+	height:590px;
+	position:absolute;
+	top:145px;
+	left:562px;
+	background-color:#231111;
+	opacity: 0;
+}
+#page4{
+	width:240px;
+	height:590px;
+	position:absolute;
+	top:145px;
+	left:824px;
+	background-color:#231111;
+	opacity: 0;
+}
+#page5{
+	width:240px;
+	height:590px;
+	position:absolute;
+	top:145px;
+	left:1090px;
+	background-color:#231111;
+	opacity: 0;
+}
