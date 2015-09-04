@@ -23,8 +23,8 @@ body {
 }
 #live-play-button{
 	position:absolute;
-	top:40px;
-	left:850px;
+	top:21px;
+	left:856px;
 	cursor: pointer;
 }
 #pinewave{
